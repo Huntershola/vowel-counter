@@ -16,7 +16,7 @@ The Vowel Counter application provides a simple and intuitive interface where us
 ## Live Demo
 
 You can view the live demo of this project on Netlify:
-[Vowel Counter](https://your-netlify-link.netlify.app)
+[Vowel Counter](https://vowel-counts.netlify.app/)
 
 ## License
 
